@@ -1,0 +1,17 @@
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\bin\Debug\net8.0-windows\presentation Layer.exe
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\bin\Debug\net8.0-windows\presentation Layer.deps.json
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\bin\Debug\net8.0-windows\presentation Layer.runtimeconfig.json
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\bin\Debug\net8.0-windows\presentation Layer.dll
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\bin\Debug\net8.0-windows\presentation Layer.pdb
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation_Layer.Form1.resources
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.csproj.GenerateResource.cache
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.AssemblyInfoInputs.cache
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.AssemblyInfo.cs
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.sourcelink.json
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.dll
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\refint\presentation Layer.dll
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.pdb
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\presentation Layer.genruntimeconfig.cache
+C:\Users\CONNECT\source\repos\ITI Examination Window Form\presentation Layer\obj\Debug\net8.0-windows\ref\presentation Layer.dll
