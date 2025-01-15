@@ -1,0 +1,18 @@
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\bin\Debug\net8.0-windows\User Interface.exe
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\bin\Debug\net8.0-windows\User Interface.deps.json
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\bin\Debug\net8.0-windows\User Interface.runtimeconfig.json
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\bin\Debug\net8.0-windows\User Interface.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\bin\Debug\net8.0-windows\User Interface.pdb
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User_Interface.AdminSignIn.resources
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User_Interface.Form1.resources
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.csproj.GenerateResource.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.AssemblyInfoInputs.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.AssemblyInfo.cs
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.csproj.CoreCompileInputs.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.sourcelink.json
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\refint\User Interface.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.pdb
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\User Interface.genruntimeconfig.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\User Interface\obj\Debug\net8.0-windows\ref\User Interface.dll
