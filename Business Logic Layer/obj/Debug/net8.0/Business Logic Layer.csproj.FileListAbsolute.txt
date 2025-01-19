@@ -1,0 +1,34 @@
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.deps.json
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.pdb
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.pdb
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.dll.config
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.AssemblyReference.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfoInputs.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfo.cs
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.sourcelink.json
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business.6AB683E1.Up2Date
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\refint\Business Logic Layer.dll
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.pdb
+C:\Users\CONNECT\Desktop\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\ref\Business Logic Layer.dll
+D:\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.deps.json
+D:\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.dll
+D:\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.pdb
+D:\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.dll
+D:\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.pdb
+D:\ITI-Examination-System\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.dll.config
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.AssemblyReference.cache
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfoInputs.cache
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfo.cs
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.sourcelink.json
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business.6AB683E1.Up2Date
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.dll
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\refint\Business Logic Layer.dll
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.pdb
+D:\ITI-Examination-System\Business Logic Layer\obj\Debug\net8.0\ref\Business Logic Layer.dll
